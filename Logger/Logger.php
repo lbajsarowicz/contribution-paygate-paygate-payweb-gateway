@@ -6,6 +6,6 @@
 
 namespace PayGate\PayWeb\Logger;
 
-class Logger extends \Magento\Framework\Logger\Monolog
+class Logger extends \Monolog\Logger
 {
 }
